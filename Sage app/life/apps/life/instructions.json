@@ -1,0 +1,16 @@
+{
+	"main_script": "life.js",
+	"icon": "life.png",
+	"width": 1000,
+	"height": 1000,
+	"animation": true,
+	"load": {
+		"currentStation": 0
+	},
+	"title": "Game of Life",
+	"version": "1.0",
+	"description": "A large Conway's game of life",
+	"keywords": [ "life", "conway", "boxes", "[]" ],
+	"author": "Mac Carter <harlow44@hotmail.com> Toby hwang <hwang62@uic.edu>",
+	"license": "MIT"
+}

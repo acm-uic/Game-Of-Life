@@ -1,0 +1,16 @@
+{
+	"main_script": "test.js",
+	"icon": "test.png",
+	"width": 800,
+	"height": 734,
+	"animation": true,
+	"load": {
+		"currentStation": 0
+	},
+	"title": "test",
+	"version": "1",
+	"description": "this is a test",
+	"keywords": [ "asdf", "dd", "fdf", "asfo" ],
+	"author": "athing",
+	"license": "MIT"
+}
